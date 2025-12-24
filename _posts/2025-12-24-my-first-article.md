@@ -60,3 +60,59 @@ tags: 教育投资, AI重构教育
 先分享一个行业真相：**如果能抓住孕期这个入口，理论上你能锁定一个用户至少6年**——从孕期陪伴到孩子4-5岁，妥妥的重度用户生命周期。
 
 但看看之前的产品们，又把这个场景做碎了。
+
+# Preface
+I am probably one of the rare "full-scenario coverage practitioners" in the industry—with 9 years of experience in strategic education investment, I have witnessed the entire cycle of online education from its warm-up phase, boom, to post-pandemic adjustment driven by the last wave of mobile internet. The industry shutdown during the pandemic, instead, gave me the opportunity to delve deeper: vocational education, family education, health education, K12 education... I immersed myself in the details of various segmented education tracks and explored the project logic across different scenarios.
+
+When it comes to the full lifecycle coverage and depth of education strategy, I have every confidence to say: if anyone can thoroughly explain the segmented scenarios and core needs of China's education and training industry, it’s none other than me.
+
+I chose to publish on GitHub out of a simple need: there are few platforms in China that can host in-depth industry analysis. Today is December 24th, and from this moment on, I will continue to update content—with one core goal: **to provide a complete map of China's online education scenarios for technologists aspiring to reinvent education with AI**, and let us together ignite the spark of AI serving education.
+
+# This Article Will Span Lifelong Learning
+Education has never been limited to a single stage; it is a continuous process throughout life: from early childhood education for babbling infants, to preschool enlightenment for children aged 3-6, the K12 system for ages 6-18, followed by vocational high school education and higher education; after graduation, there are needs for civil service and graduate exam preparation, professional skill enhancement, as well as supplementary learning in financial knowledge and life skills; lifelong learning needs for middle-aged people, and even senior universities in old age...
+
+Education across the entire lifecycle inevitably shares common underlying logic. If we fail to grasp this commonality, **the so-called "reconstructing education scenarios" will be nothing but castles in the air**.
+
+The biggest problem in today's education industry is **excessive fragmentation**—we have never considered users' diverse needs from their perspective. Internet product professionals all understand: no successful product is purely vertically segmented. Just like video platforms, they only have channels instead of developing a separate app for variety shows or documentaries...
+
+But the education industry is different. Educational needs at different stages and in different categories have been split into independent tracks, each operating in isolation. There are exclusive apps for variety shows, documentaries, parenting, and career advancement... Everyone works hard on product development, yet ultimately falls into the predicament of being "small and scattered", making it difficult even for major tech companies to scale up—**and let’s not forget, this represents a rigid learning demand of at least 200 to 300 million people**.
+
+| Education Stage | Number of Enrolled Students (10,000) | Data Source |
+| :-------------- | -----------------------------------: | :---------- |
+| Primary School  |                            10,584.37 | 2024 National Statistical Communique on Education Development |
+| Junior High School |                             5,386.16 | 2024 National Statistical Communique on Education Development |
+| Senior High School |                             2,922.30 | National Bureau of Statistics Data |
+| Total           |                18,892.83 (≈189 million) | Sum of enrolled students in primary, junior high, and senior high schools |
+
+| Age Group       | Corresponding Birth Year | Population (10,000) |
+| :-------------- | :----------------------- | ------------------: |
+| 0 years old (infants) | 2024                     |                 954 |
+| 1 year old      | 2023                     |                 902 |
+| 2 years old     | 2022                     |                 956 |
+| 3 years old     | 2021                     |               1,062 |
+| 4 years old     | 2020                     |               1,200 |
+| 5 years old     | 2019                     |               1,465 |
+| 6 years old     | 2018                     |               1,523 |
+| 7 years old     | 2017                     |               1,723 |
+| Total           | 2017-2024                |               6,623 |
+
+| Graduation Year | Number of Graduates (10,000) | Year-on-Year Growth | Cumulative Number of Graduates (10,000) | Data Source |
+| :-------------- | ---------------------------: | :----------------- | --------------------------------------: | :---------- |
+| 2020            |                         874.0 | 4.8%               |                                   874.0 | Ministry of Education Announcement |
+| 2021            |                         909.0 | 3.9%               |                                 1,783.0 | Ministry of Education Announcement |
+| 2022            |                       1,076.0 | 18.4%              |                                 2,859.0 | Ministry of Education Announcement |
+| 2023            |                       1,158.0 | 7.6%               |                                 4,017.0 | Ministry of Education Announcement |
+| 2024            |                       1,179.0 | 1.8%               |                                 5,196.0 | Ministry of Education Announcement |
+
+**Users' real needs have always been diverse**: a young person may want to learn astrology today, make up for relationship skills tomorrow, and study makeup the day after; before marriage, they need to understand wedding procedures, and after marriage, they need to research home decoration... Just like shopping logic—they may buy an iPhone and also shop on Pinduoduo, with no conflict between needs.
+
+Precisely because of this fragmentation, **most current education projects can only survive by "building brands and buying traffic"**.
+
+From the perspective of traditional education companies, AI is truly intimidating—the sense of being "attacked from all sides" leaves people completely unsure where to defend.
+
+I once lost sleep all night over this impact, but then I thought: I am no longer in the position of a traditional education company, so why dwell on "defense"? Instead, together with internet giants and tech entrepreneurs, **we should take the initiative to "attack"—reinventing education with AI is the most interesting endeavor**.
+
+# Let’s Start from -1 Year Old: Prenatal Education
+First, share an industry truth: **if we can capture the prenatal education entry point, theoretically we can retain a user for at least 6 years**—from prenatal companionship to the child being 4-5 years old, a solid lifecycle of heavy user engagement.
+
+But look at previous products—they have fragmented this scenario yet again.
